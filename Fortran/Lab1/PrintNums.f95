@@ -1,7 +1,6 @@
-! quicksort.f -*-f90-*-
-! Author: t-nissie
-! License: GPLv3
-! Gist: https://gist.github.com/t-nissie/479f0f16966925fa29ea
+! SortNumbers
+! Author: paradox
+! License: MIT
 !!
 
 Program PrintNums
